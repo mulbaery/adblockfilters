@@ -1,6 +1,6 @@
 # yahoomail android app
-b.gemini.yahoo.com
-m.yap.yahoo.com
-s.yimg.com
-analytics.query.yahoo.com
-data.flurry.com
+0.0.0.0 b.gemini.yahoo.com
+0.0.0.0 m.yap.yahoo.com
+0.0.0.0 s.yimg.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 data.flurry.com
