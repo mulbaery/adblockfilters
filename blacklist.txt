@@ -8,4 +8,4 @@
 # sentry
 0.0.0.0 sentry.io
 0.0.0.0 sentry-cdn.com
-0.0.0.0 app.getsentry.com
+0.0.0.0 getsentry.com
