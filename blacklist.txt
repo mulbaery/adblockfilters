@@ -4,3 +4,8 @@
 0.0.0.0 s.yimg.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 data.flurry.com
+
+# sentry
+0.0.0.0 sentry.io
+0.0.0.0 sentry-cdn.com
+0.0.0.0 app.getsentry.com
