@@ -1,23 +1,23 @@
 # yahoomail android app
-0.0.0.0 b.gemini.yahoo.com
-0.0.0.0 m.yap.yahoo.com
-0.0.0.0 s.yimg.com
-0.0.0.0 analytics.query.yahoo.com
-0.0.0.0 data.flurry.com
+||b.gemini.yahoo.com^
+||m.yap.yahoo.com^
+||s.yimg.com^
+||analytics.query.yahoo.com^
+||data.flurry.com^
 
 # sentry
-0.0.0.0 sentry.io
-0.0.0.0 sentry-cdn.com
-0.0.0.0 getsentry.com
+||sentry.io^
+||sentry-cdn.com^
+||getsentry.com^
 
 # yandex
-0.0.0.0 appmetrica.yandex.ru
+||appmetrica.yandex.ru^
 
 # vodus
-0.0.0.0 vodus.com
-0.0.0.0 voduscdn.azureedge.net
-0.0.0.0 vodus-api.azurewebsites.net
-0.0.0.0 vodus-api-serverless.azurewebsites.net
+||vodus.com^
+||voduscdn.azureedge.net^
+||vodus-api.azurewebsites.net^
+||vodus-api-serverless.azurewebsites.net^
 
-0.0.0.0 data.m2appinsight.com
-0.0.0.0 m2mobileinsights.com
+||m2appinsight.com^
+||m2mobileinsights.com^
