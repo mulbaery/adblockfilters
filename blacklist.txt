@@ -19,5 +19,5 @@
 0.0.0.0 vodus-api.azurewebsites.net
 0.0.0.0 vodus-api-serverless.azurewebsites.net
 
-0.0.0.0 m2appinsight.com
+0.0.0.0 data.m2appinsight.com
 0.0.0.0 m2mobileinsights.com
