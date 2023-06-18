@@ -9,3 +9,15 @@
 0.0.0.0 sentry.io
 0.0.0.0 sentry-cdn.com
 0.0.0.0 getsentry.com
+
+# yandex
+0.0.0.0 appmetrica.yandex.ru
+
+# vodus
+0.0.0.0 vodus.com
+0.0.0.0 voduscdn.azureedge.net
+0.0.0.0 vodus-api.azurewebsites.net
+0.0.0.0 vodus-api-serverless.azurewebsites.net
+
+0.0.0.0 m2appinsight.com
+0.0.0.0 m2mobileinsights.com
