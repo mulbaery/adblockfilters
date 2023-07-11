@@ -1,4 +1,4 @@
-# for syngene android app
+# for syncgene android app
 #@@||bat.bing.com^$important
 #@@||www.google-analytics.com^$important
 #@@||analytics.google.com^$important
