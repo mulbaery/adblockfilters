@@ -1,2 +1,4 @@
-# reddit
-reddit.com
+# for syngene android app
+@@||bat.bing.com^$important
+@@||www.google-analytics.com^$important
+@@||analytics.google.com^$important
