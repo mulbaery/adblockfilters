@@ -1,9 +1,9 @@
 # yahoomail android app
-||b.gemini.yahoo.com^
-||m.yap.yahoo.com^
-||s.yimg.com^
-||analytics.query.yahoo.com^
-||data.flurry.com^
+#||b.gemini.yahoo.com^
+#||m.yap.yahoo.com^
+#||s.yimg.com^
+#||analytics.query.yahoo.com^
+#||data.flurry.com^
 
 # sentry
 ||sentry.io^
