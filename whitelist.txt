@@ -2,3 +2,5 @@
 #@@||bat.bing.com^$important
 #@@||www.google-analytics.com^$important
 #@@||analytics.google.com^$important
+@@||sedoparking.com^$
+@@||bodis.com^$
