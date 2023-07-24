@@ -8,3 +8,5 @@
 @@||bodis.com^
 # pcloud
 @@||pcloud.com^
+# umami analytic
+@@||umami.is^
