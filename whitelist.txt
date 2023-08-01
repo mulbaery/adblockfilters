@@ -10,3 +10,5 @@
 @@||pcloud.com^
 # umami analytic
 #@@||umami.is^
+# twitter
+@@||t.co^
