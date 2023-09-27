@@ -23,3 +23,5 @@
 ||m2mobileinsights.com^
 
 ||userstats.shopee.com.my^
+
+||revmedia.my^
