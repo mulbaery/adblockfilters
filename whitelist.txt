@@ -10,3 +10,5 @@
 @@||t.co^
 # disney+
 @@||geolocation.onetrust.com^
+# taptap
+@@||img.tapimg.net^
