@@ -21,3 +21,5 @@
 
 ||m2appinsight.com^
 ||m2mobileinsights.com^
+
+||userstats.shopee.com.my^
