@@ -13,15 +13,20 @@
 # yandex
 ||appmetrica.yandex.ru^
 
+# ads on malaysian news portal
 # vodus
 ||vodus.com^
 ||voduscdn.azureedge.net^
 ||vodus-api.azurewebsites.net^
 ||vodus-api-serverless.azurewebsites.net^
 
+# ads on malaysian news portal
+# ||revmedia.my^
+
 ||m2appinsight.com^
 ||m2mobileinsights.com^
 
+# shopee malaysia
 ||userstats.shopee.com.my^
 
-||revmedia.my^
+||platform-api.sharethis.com^
