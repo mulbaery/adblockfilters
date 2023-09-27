@@ -8,3 +8,5 @@
 #@@||umami.is^
 # twitter
 @@||t.co^
+# disney+
+@@||geolocation.onetrust.com^
