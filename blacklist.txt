@@ -30,3 +30,6 @@
 ||userstats.shopee.com.my^
 
 ||platform-api.sharethis.com^
+
+# google analytics
+||firebase-settings.crashlytics.com^
