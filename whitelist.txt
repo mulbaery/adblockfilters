@@ -12,3 +12,8 @@
 @@||geolocation.onetrust.com^
 # taptap
 @@||img.tapimg.net^
+# 1337x torrent
+@@||1337x.to^
+@@||1377x.to^
+@@||1337xx.to^
+@@||1337x.tw^
