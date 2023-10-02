@@ -17,3 +17,5 @@
 @@||1377x.to^
 @@||1337xx.to^
 @@||1337x.tw^
+# email newsletter unsubscribe
+@@||trk.fresent.com^
