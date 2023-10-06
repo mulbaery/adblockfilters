@@ -32,4 +32,4 @@
 ||platform-api.sharethis.com^
 
 # google analytics
-||firebase-settings.crashlytics.com^
+#||firebase-settings.crashlytics.com^
