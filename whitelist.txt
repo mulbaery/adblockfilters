@@ -19,3 +19,5 @@
 @@||1337x.tw^
 # email newsletter unsubscribe
 @@||trk.fresent.com^
+# bypass admiral anti adblock
+@@||succeedscene.com^
