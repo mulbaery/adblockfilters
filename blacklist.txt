@@ -23,8 +23,8 @@
 # ads on malaysian news portal
 # ||revmedia.my^
 
-#||m2appinsight.com^
-#||m2mobileinsights.com^
+||m2appinsight.com^
+||m2mobileinsights.com^
 
 # shopee malaysia
 ||userstats.shopee.com.my^
