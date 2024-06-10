@@ -33,3 +33,6 @@
 
 # google analytics
 #||firebase-settings.crashlytics.com^
+
+# reddit
+||alb.reddit.com^
