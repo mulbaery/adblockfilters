@@ -36,3 +36,6 @@
 
 # reddit
 ||alb.reddit.com^
+
+# moomoo on lowyat forum
+||moomoo.com^
