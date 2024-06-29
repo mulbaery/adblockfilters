@@ -7,7 +7,7 @@
 # sentry
 sentry.io
 sentry-cdn.com
-getsentry.com^
+getsentry.com
 
 # yandex
 appmetrica.yandex.ru
@@ -16,8 +16,8 @@ appmetrica.yandex.ru
 # vodus
 vodus.com
 voduscdn.azureedge.net
-vodus-api.azurewebsites.net^
-vodus-api-serverless.azurewebsites.net^
+vodus-api.azurewebsites.net
+vodus-api-serverless.azurewebsites.net
 
 # ads on malaysian news portal
 revmedia.my
