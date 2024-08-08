@@ -9,3 +9,6 @@ img.tapimg.net
 
 # email newsletter unsubscribe
 trk.fresent.com
+
+# android dot connectivity check
+metric.gstatic.com
