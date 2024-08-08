@@ -21,3 +21,5 @@
 @@||trk.fresent.com^
 # bypass admiral anti adblock
 @@||succeedscene.com^
+# android dot connectivity check *-dnsotls-ds.metric.gstatic.com
+@@||metric.gstatic.com^
