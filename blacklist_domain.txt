@@ -28,4 +28,7 @@ m2mobileinsights.com
 # shopee malaysia
 userstats.shopee.com.my
 
+# block application dns doh request
+use-application-dns.net
+
 platform-api.sharethis.com
