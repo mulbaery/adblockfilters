@@ -42,3 +42,6 @@
 
 # moomoo on lowyat forum
 ||moomoo.com^
+
+# viatnamese source for scam ads used in malaysia
+||dns.ladipage.com^
