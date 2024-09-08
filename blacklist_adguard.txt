@@ -45,3 +45,9 @@
 
 # viatnamese source for scam ads used in malaysia
 ||dns.ladipage.com^
+
+# taboola
+||taboola.com^
+
+# outbrain
+||outbrain.com^
