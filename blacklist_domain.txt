@@ -51,3 +51,5 @@ taboola.com
 
 # outbrain
 outbrain.com
+
+tracker2.dler.org
