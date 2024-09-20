@@ -53,6 +53,6 @@
 ||outbrain.com^
 
 ||tracker2.dler.org^
-||tracker.qu.ax^
-||tracker.theoks.net^
-||tracker1.bt.moack.co.kr^
+#||tracker.qu.ax^
+#||tracker.theoks.net^
+#||tracker1.bt.moack.co.kr^
