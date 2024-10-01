@@ -22,3 +22,5 @@
 @@||succeedscene.com^
 # android dot connectivity check *-dnsotls-ds.metric.gstatic.com
 @@||*-dnsotls-ds.metric.gstatic.com^
+# windscribe vpn
+@@||whiskergalaxy.com^
