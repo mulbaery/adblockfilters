@@ -22,3 +22,5 @@ trk.fresent.com
 succeedscene.com
 # android dot connectivity check *-dnsotls-ds.metric.gstatic.com
 metric.gstatic.com
+# windscribe vpn
+whiskergalaxy.com
