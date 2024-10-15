@@ -56,3 +56,6 @@ tracker2.dler.org
 #tracker.qu.ax
 #tracker.theoks.net
 #tracker1.bt.moack.co.kr
+
+# mediaprima malaysian news
+ad.mediaprimaplus.com.my
