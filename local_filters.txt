@@ -1,0 +1,38 @@
+! 11 Aug 2024 https://www.wired.com
+www.wired.com##.jXCwHb.PaywallBarCollapsedContent-bPyKsX
+www.wired.com##.dkAtsv.PaywallBarContentContainer-geBYFf
+www.wired.com##.mobile.dyxCKb.PaywallBarWrapper-hbEokK
+www.wired.com###\34 16dcb-9aeb-b7de-9391-bb193bcc6230
+
+! 29 Aug 2024 https://www.reddit.com
+www.reddit.com##.pt-\[var\(--page-y-padding\)\].overflow-visible > shreddit-async-loader
+
+! 30 Aug 2024 https://forum.lowyat.net
+||pictr.com/images/2024/06/15/x7nsJr.jpg$image
+
+! 15 Oct 2024 https://www.nst.com.my
+!www.nst.com.my##.with-margin.my-4.block
+
+! 18 Oct 2024 https://m.facebook.com
+m.facebook.com##.bottom.fixed-container.m
+
+! 18 Oct 2024 https://www.nst.com.my
+www.nst.com.my##.with-margin.my-4.block
+www.nst.com.my##.position-relative.d-block.trending-top-content
+www.nst.com.my###trending-top
+
+! 18 Oct 2024 https://www.techradar.com
+www.techradar.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrapper
+
+! 18 Oct 2024 https://www.namepros.com
+||nameproscdn.com/images/backers2/bbonline/2023-11-28_250x125.png$image
+||nameproscdn.com/images/backers2/bbonline/2023-11-28_250x125.png$image
+||nameproscdn.com/images/backers2/catchy/2024-05-04_250x125.png$image
+||nameproscdn.com/images/backers2/efty/2024-08-09_250x125.png$image
+||nameproscdn.com/images/backers2/catchy/2024-05-04_250x125.png$image
+||nameproscdn.com/images/backers2/bbonline/2023-11-28_250x125.png$image
+||nameproscdn.com/images/backers2/dynadot/2023-09-22_*.png$image
+||nameproscdn.com/images/backers2/escrowcom/escrow-com_licensed.jpg$image
+||nameproscdn.com/images/backers2/namesilo/2024-05-04_*n1.png$image
+||nameproscdn.com/images/backers2/namesilo/2024-05-04_*n3.png$image
+
