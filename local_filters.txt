@@ -36,3 +36,4 @@ www.techradar.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrappe
 ||nameproscdn.com/images/backers2/namesilo/2024-05-04_*n1.png$image
 ||nameproscdn.com/images/backers2/namesilo/2024-05-04_*n3.png$image
 
+facebook.com##div[id^="hyperfeed_story_id_"]:has(span:has-text(/^d$/))
