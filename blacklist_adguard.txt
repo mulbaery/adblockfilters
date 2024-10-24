@@ -59,3 +59,6 @@
 
 # mediaprima malaysian news
 ||ad.mediaprimaplus.com.my^
+
+# banners on namepros
+||nameproscdn.com^
