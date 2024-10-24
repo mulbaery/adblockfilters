@@ -25,15 +25,4 @@ www.nst.com.my###trending-top
 www.techradar.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrapper
 
 ! 18 Oct 2024 https://www.namepros.com
-||nameproscdn.com/images/backers2/bbonline/2023-11-28_250x125.png$image
-||nameproscdn.com/images/backers2/bbonline/2023-11-28_250x125.png$image
-||nameproscdn.com/images/backers2/catchy/2024-05-04_250x125.png$image
-||nameproscdn.com/images/backers2/efty/2024-08-09_250x125.png$image
-||nameproscdn.com/images/backers2/catchy/2024-05-04_250x125.png$image
-||nameproscdn.com/images/backers2/bbonline/2023-11-28_250x125.png$image
-||nameproscdn.com/images/backers2/dynadot/2023-09-22_*.png$image
-||nameproscdn.com/images/backers2/escrowcom/escrow-com_licensed.jpg$image
-||nameproscdn.com/images/backers2/namesilo/2024-05-04_*n1.png$image
-||nameproscdn.com/images/backers2/namesilo/2024-05-04_*n3.png$image
-
-facebook.com##div[id^="hyperfeed_story_id_"]:has(span:has-text(/^d$/))
+||nameproscdn.com/images/*
