@@ -61,4 +61,4 @@ tracker2.dler.org
 ad.mediaprimaplus.com.my
 
 # banners on namepros
-nameproscdn.com
+#nameproscdn.com
