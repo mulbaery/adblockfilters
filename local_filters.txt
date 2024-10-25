@@ -17,9 +17,9 @@ www.reddit.com##.pt-\[var\(--page-y-padding\)\].overflow-visible > shreddit-asyn
 m.facebook.com##.bottom.fixed-container.m
 
 ! 18 Oct 2024 https://www.nst.com.my
-www.nst.com.my##.with-margin.my-4.block
-www.nst.com.my##.position-relative.d-block.trending-top-content
-www.nst.com.my###trending-top
+#www.nst.com.my##.with-margin.my-4.block
+#www.nst.com.my##.position-relative.d-block.trending-top-content
+#www.nst.com.my###trending-top
 
 ! 18 Oct 2024 https://www.techradar.com
 www.techradar.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrapper
