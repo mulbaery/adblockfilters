@@ -17,4 +17,4 @@ m.facebook.com##.bottom.fixed-container.m
 www.techradar.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrapper
 
 ! 18 Oct 2024 https://www.namepros.com
-||nameproscdn.com/images/*
+#||nameproscdn.com/images/*
