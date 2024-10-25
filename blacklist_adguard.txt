@@ -61,4 +61,4 @@
 ||ad.mediaprimaplus.com.my^
 
 # banners on namepros
-||nameproscdn.com^
+#||nameproscdn.com^
