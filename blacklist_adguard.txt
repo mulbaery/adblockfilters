@@ -65,4 +65,5 @@
 
 # facebook graph
 ||graph-fallback.facebook.com^
+||b-graph-fallback.facebook.com^
 ||graph.fbpigeon.com^
