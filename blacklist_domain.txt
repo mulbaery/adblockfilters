@@ -65,5 +65,6 @@ ad.mediaprimaplus.com.my
 
 # facebook graph
 graph-fallback.facebook.com
+payments-graph.facebook.com
 b-graph-fallback.facebook.com
 graph.fbpigeon.com
