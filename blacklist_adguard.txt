@@ -21,7 +21,7 @@
 ||vodus-api-serverless.azurewebsites.net^
 
 # ads on malaysian news portal
-# ||revmedia.my^
+||revmedia.my^
 
 ||m2appinsight.com^
 ||m2mobileinsights.com^
