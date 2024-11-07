@@ -62,3 +62,6 @@
 
 # banners on namepros
 #||nameproscdn.com^
+
+# facebook graph
+||graph-fallback.facebook.com^
