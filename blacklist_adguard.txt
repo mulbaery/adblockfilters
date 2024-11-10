@@ -68,3 +68,6 @@
 ||payments-graph.facebook.com^
 ||b-graph-fallback.facebook.com^
 ||graph.fbpigeon.com^
+
+# vivaldi crash analytic server
+||anr-stacktrace-upload.vivaldi.com^
