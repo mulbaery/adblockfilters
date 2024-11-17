@@ -59,6 +59,7 @@ tracker2.dler.org
 
 # mediaprima malaysian news
 ad.mediaprimaplus.com.my
+podcast.mediaprimalabs.com
 
 # banners on namepros
 #nameproscdn.com
