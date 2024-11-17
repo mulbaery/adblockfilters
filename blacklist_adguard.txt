@@ -71,3 +71,6 @@
 
 # vivaldi crash analytic server
 ||anr-stacktrace-upload.vivaldi.com^
+
+# tonton ads on malaysian site
+||headend-api.tonton.com.my^
