@@ -75,6 +75,3 @@ anr-stacktrace-upload.vivaldi.com
 
 # tonton ads on malaysian site
 headend-api.tonton.com.my
-
-# astroawani malaysian news
-eco.astro.com.my
