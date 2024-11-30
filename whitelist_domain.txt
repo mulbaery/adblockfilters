@@ -24,3 +24,5 @@ succeedscene.com
 metric.gstatic.com
 # windscribe vpn
 whiskergalaxy.com
+# riseup
+riseup.net
