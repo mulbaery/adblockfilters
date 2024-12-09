@@ -1,14 +1,9 @@
 # yahoomail android app
-#b.gemini.yahoo.com
-#m.yap.yahoo.com
-#s.yimg.com
-#analytics.query.yahoo.com
-#data.flurry.com
-
-# sentry
-sentry.io
-sentry-cdn.com
-getsentry.com
+#||b.gemini.yahoo.com^
+#||m.yap.yahoo.com^
+#||s.yimg.com^
+#||analytics.query.yahoo.com^
+#||data.flurry.com^
 
 # yandex
 appmetrica.yandex.ru
@@ -46,23 +41,9 @@ moomoo.com
 # viatnamese source for scam ads used in malaysia
 dns.ladipage.com
 
-# taboola
-taboola.com
-
-# outbrain
-outbrain.com
-
-tracker2.dler.org
-#tracker.qu.ax
-#tracker.theoks.net
-#tracker1.bt.moack.co.kr
-
 # mediaprima malaysian news
 ad.mediaprimaplus.com.my
 podcast.mediaprimalabs.com
-
-# banners on namepros
-#nameproscdn.com
 
 # facebook graph
 graph-fallback.facebook.com
@@ -70,8 +51,11 @@ payments-graph.facebook.com
 b-graph-fallback.facebook.com
 graph.fbpigeon.com
 
-## vivaldi crash analytic server
+# vivaldi crash analytic server
 anr-stacktrace-upload.vivaldi.com
 
 # tonton ads on malaysian site
 headend-api.tonton.com.my
+
+# unitar ads on astoawani
+#form.typeform.com/to/GSXKxiHz
