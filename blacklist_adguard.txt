@@ -5,11 +5,6 @@
 #||analytics.query.yahoo.com^
 #||data.flurry.com^
 
-# sentry
-||sentry.io^
-||sentry-cdn.com^
-||getsentry.com^
-
 # yandex
 ||appmetrica.yandex.ru^
 
@@ -49,9 +44,6 @@
 # mediaprima malaysian news
 ||ad.mediaprimaplus.com.my^
 ||podcast.mediaprimalabs.com^
-
-# banners on namepros
-#||nameproscdn.com^
 
 # facebook graph
 ||graph-fallback.facebook.com^
