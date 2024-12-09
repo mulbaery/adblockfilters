@@ -21,3 +21,5 @@ www.techradar.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrappe
 
 ! 3 Dec 2024 https://www.reddit.com login notif after clicking "view more comments" on mobile reddit
 www.reddit.com###main-content > .absolute
+
+||form.typeform.com/to/GSXKxiHz*
