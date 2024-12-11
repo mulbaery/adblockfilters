@@ -24,3 +24,5 @@ www.reddit.com###main-content > .absolute
 
 form.typeform.com/to/GSXKxiHz*
 nameproscdn.com/images/backers2/*
+
+assets.bharian.com.my/assets/stroke.png
