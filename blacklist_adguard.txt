@@ -23,6 +23,7 @@
 
 # shopee malaysia
 ||userstats.shopee.com.my^
+||tracking.shopee.com.my^
 
 ||platform-api.sharethis.com^
 
