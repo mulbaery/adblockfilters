@@ -26,3 +26,6 @@
 @@||whiskergalaxy.com^
 # riseup
 @@||riseup.net^
+# spotify verification link
+@@||wl.spotify.com^
+
