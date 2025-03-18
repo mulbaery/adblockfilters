@@ -26,3 +26,5 @@ metric.gstatic.com
 whiskergalaxy.com
 # riseup
 riseup.net
+# spotify verification link
+wl.spotify.com
