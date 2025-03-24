@@ -29,5 +29,5 @@
 # spotify verification link
 @@||wl.spotify.com^
 # plausible.io a tracking site but still needto visit sometimes to view internet stats
-@@||plausible.io^
+@@||blog.plausible.io^
 
