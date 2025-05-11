@@ -16,9 +16,6 @@ m.facebook.com##.bottom.fixed-container.m
 ! 18 Oct 2024 https://www.techradar.com
 www.techradar.com##.newsletter-form__wrapper--exitIntent.newsletter-form__wrapper
 
-! 18 Oct 2024 https://www.namepros.com
-#||nameproscdn.com/images/*
-
 ! 3 Dec 2024 https://www.reddit.com login notif after clicking "view more comments" on mobile reddit
 www.reddit.com###main-content > .absolute
 
@@ -26,3 +23,24 @@ form.typeform.com/to/GSXKxiHz*
 nameproscdn.com/images/backers2/*
 
 assets.bharian.com.my/assets/stroke.png
+
+! 5 May 2025 https://www.namepros.com
+||nameproscdn.com/images/backers2/*$image
+
+! 5 May 2025 https://dnjournal.com
+||dnjournal.com/dnjournal/elements/*$image
+
+! 5 May 2025 https://domain.news
+domain.news##.__home_2.wpcom_myimg_wrap > [href="http://tracking.payoneer.com/SH5uM"]
+
+! 6 May 2025 https://tldes.com
+||tldes.com/lib/img/*$image
+
+! 7 May 2025 https://ip.sb
+||ip.sb/assets/images/*$image
+
+! 12 May 2025 https://domainincite.com
+||domainincite.com/images/*$image
+
+! 12 May 2025 https://domain.news
+||domain.news/wp-content/uploads/2025/03/2025*$image
