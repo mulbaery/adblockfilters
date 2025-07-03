@@ -1,3 +1,6 @@
+! general rule to disable brave dark theme on site with built-in dark theme
+*##:root:style(color-scheme: light dark !important;)
+
 ! 11 Aug 2024 https://www.wired.com
 www.wired.com##.jXCwHb.PaywallBarCollapsedContent-bPyKsX
 www.wired.com##.dkAtsv.PaywallBarContentContainer-geBYFf
