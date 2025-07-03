@@ -44,3 +44,8 @@ domain.news##.__home_2.wpcom_myimg_wrap > [href="http://tracking.payoneer.com/SH
 
 ! 12 May 2025 https://domain.news
 ||domain.news/wp-content/uploads/2025/03/2025*$image
+
+! 04 July 2025 https://bharian.com.my
+bharian.com.my##[src*="https://www.bharian.com.my/assets/summary-home-btn.png"]
+bharian.com.my##.icofont-close
+bharian.com.my##.close-btn.btn.itracking
