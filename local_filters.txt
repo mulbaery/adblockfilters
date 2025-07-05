@@ -81,3 +81,6 @@ xhamster.com##.FbRC-SvABZpremium-n-overlay.fixed-height.middle-mobile-horizontal
 xhamster.com##.mobileHorizontal-a85ac.small-a85ac > .header-a85ac
 xhamster.com##.mobileHorizontal-a85ac.small-a85ac > .scrollable-a85ac
 xhamster.com##.FbRC-SvABZ.FbRC-SvABZ--middle.FbRC-SvABZno-ts-init
+
+! 05 July 2025 https://1337x.to
+1337x.to##div.box-info.filter-list:nth-of-type(2) > .box-info-heading
