@@ -55,3 +55,9 @@ bharian.com.my##.close-btn.btn.itracking
 
 ! 05 July 2025 https://domainnamewire.com
 domainnamewire.com##.after-header
+domainnamewire.com##div.after-entry:nth-of-type(4) > section.widget.widget_text:nth-of-type(2) > .widget-wrap > .textwidget > .g.g-2 > .g-single.a-34 > center > [href*="https://cryptoexchange.com/escrow"] > .entered.lazyloaded
+domainnamewire.com##div.after-entry:nth-of-type(6) > section.widget.widget_text:nth-of-type(2) > .widget-wrap > .textwidget > .g.g-2 > .g-single.a-35 > center > [href*="https://hub.internetx.com/en/global-domain-report-2025"] > .entered.lazyloaded
+domainnamewire.com##div.after-entry:nth-of-type(8) > section.widget.widget_text:nth-of-type(2) > .widget-wrap > .textwidget > .g.g-2 > .g-single.a-35 > center > [href*="https://hub.internetx.com/en/global-domain-report-2025"] > .entered.lazyloaded
+domainnamewire.com##div.after-entry:nth-of-type(10) > section.widget.widget_text:nth-of-type(2) > .widget-wrap > .textwidget > .g.g-2 > .g-single.a-35 > center > [href*="https://hub.internetx.com/en/global-domain-report-2025"] > .entered.lazyloaded
+domainnamewire.com##div.after-entry:nth-of-type(12) > section.widget.widget_text:nth-of-type(2) > .widget-wrap > .textwidget > .g.g-2 > .g-single.a-35 > center > [href*="https://hub.internetx.com/en/global-domain-report-2025"] > .entered.lazyloaded
+domainnamewire.com###genesis-sidebar-primary
