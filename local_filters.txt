@@ -52,3 +52,6 @@ domain.news##.__home_2.wpcom_myimg_wrap > [href="http://tracking.payoneer.com/SH
 bharian.com.my##[src*="https://www.bharian.com.my/assets/summary-home-btn.png"]
 bharian.com.my##.icofont-close
 bharian.com.my##.close-btn.btn.itracking
+
+! 05 July 2025 https://domainnamewire.com
+domainnamewire.com##.after-header
