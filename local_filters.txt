@@ -71,3 +71,13 @@ dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) 
 dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(1) > div:nth-of-type(1) > center:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3) > p
 dnjournal.com##[src*="ads/it.com/2025/06-27/693f1bf7-288c-4890-85ba-14465fe6fe12.png"]
 dnjournal.com##div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td
+
+! 05 July 2025 https://xhamster.com
+xhamster.com##.d71cd252._63b8f8a1
+xhamster.com##.FbRC-SvABZcam-thumb.FbRC-SvABZcam-thumb--big.mobile-video-thumb > .thumb-image-container.item-container
+xhamster.com##.FbRC-SvABZpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .header-a85ac
+xhamster.com##.FbRC-SvABZpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .scrollable-a85ac > .itemContainer-a85ac
+xhamster.com##.FbRC-SvABZpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .scrollable-a85ac
+xhamster.com##.mobileHorizontal-a85ac.small-a85ac > .header-a85ac
+xhamster.com##.mobileHorizontal-a85ac.small-a85ac > .scrollable-a85ac
+xhamster.com##.FbRC-SvABZ.FbRC-SvABZ--middle.FbRC-SvABZno-ts-init
