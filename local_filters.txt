@@ -86,3 +86,6 @@ xhamster.com##.FbRC-SvABZ.FbRC-SvABZ--middle.FbRC-SvABZno-ts-init
 1337x.to##div.box-info.filter-list:nth-of-type(2) > .box-info-heading
 1337x.to###l5b2c8b84c89c2ca31f0df507ca280c97758164e1 > div:nth-of-type(2)
 1337x.to###l17581d50b6260521bde58c4d37111774c3507b47
+
+! 06 July 2025 https://gsmarena.com
+m.gsmarena.com##.d-flex.flex-column.justify-center.align-center
