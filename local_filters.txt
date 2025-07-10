@@ -81,11 +81,17 @@ xhamster.com##.FbRC-SvABZpremium-n-overlay.fixed-height.middle-mobile-horizontal
 xhamster.com##.mobileHorizontal-a85ac.small-a85ac > .header-a85ac
 xhamster.com##.mobileHorizontal-a85ac.small-a85ac > .scrollable-a85ac
 xhamster.com##.FbRC-SvABZ.FbRC-SvABZ--middle.FbRC-SvABZno-ts-init
+xhamster.com##.fa292e2e._5ea22b09
+xhamster.com##.SNFL-gUpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .scrollable-a85ac > .itemContainer-a85ac
+xhamster.com##.SNFL-gUpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .header-a85ac
+xhamster.com##.SNFL-gUpremium-n-overlay.fixed-height.middle-mobile-horizontal > .mobileHorizontal-a85ac > .scrollable-a85ac
+xhamster.com##.SNFL-gU.SNFL-gU--middle.SNFL-gUno-ts-init
 
 ! 05 July 2025 https://1337x.to
 1337x.to##div.box-info.filter-list:nth-of-type(2) > .box-info-heading
 1337x.to###l5b2c8b84c89c2ca31f0df507ca280c97758164e1 > div:nth-of-type(2)
 1337x.to###l17581d50b6260521bde58c4d37111774c3507b47
+1337x.to##[src*="https://limeiptv.to/static/b1.gif"]
 
 ! 06 July 2025 https://gsmarena.com
 m.gsmarena.com##.d-flex.flex-column.justify-center.align-center
